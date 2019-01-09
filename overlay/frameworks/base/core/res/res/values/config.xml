@@ -349,6 +349,7 @@
     <!-- Whether or not swipe up gesture's opt-in setting is available on this device -->
     <bool name="config_swipe_up_gesture_setting_available">true</bool>
 
+
     <!-- Flag indicating whether the surface flinger has limited alpha compositing 
          functionality in hardware.  If set, the window manager will disable alpha 
          trasformation in animations where not
