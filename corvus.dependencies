@@ -1,0 +1,19 @@
+[
+   "remote":      "github",
+   "repository": "LineageOS/android_packages_resources_devicesettings",
+   "target_path": "packages/resources/devicesettings",
+   "branch":      "lineage-17.1"
+ },
+ {
+   "repository": "Corvus-Devices/kernel_xiaomi_riva",
+   "target_path": "kernel/xiaomi/msm8917"
+   "branch": "lineage-17.1",
+   "remote": "github" 
+ },
+ {
+  "repository": "Corvus-Devices/vendor_xiaomi_riva",
+    "target_path": "vendor/xiaomi",
+    "branch": "corvus",
+    "remote": "github"
+ }
+]
